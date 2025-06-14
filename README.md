@@ -1,6 +1,6 @@
 # Legacy Embed - Standard / Fixed 
 
-https://pook-sapot.github.io/Meet-Lenny-Standard-Fixed/
+Link: https://pook-sapot.github.io/Meet-Lenny-Legacy-Standard-Fixed/
 
 A Pen created on CodePen.
 
